@@ -3,7 +3,7 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://verbier4vallees.ch/en/online-shop/activities/opening-session-st.nicholas-express_activity_426820"
+URL = "https://verbier4vallees.ch/en/online-shop/activities/opening-session_activity_410650"
 SOLD_OUT = "today's ski pass quota has been sold out"
 
 
