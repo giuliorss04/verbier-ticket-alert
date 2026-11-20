@@ -8,9 +8,9 @@ on:
         type: boolean
         required: false
         default: false
-  schedule:
-    - cron: '3-58/5 * * 11 1-5'
-
+  
+  # qua andrebbe la schedule
+  
 permissions:
   contents: read
 
